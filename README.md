@@ -1,2 +1,2 @@
-# perso
-Repo perso
+# InforCOnsult
+Repository de stockage de scripts terraform
